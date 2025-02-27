@@ -1,6 +1,10 @@
 # SUPERMARKET SALES DATASET ANALYSIS
 A dataset on a Supermarket Sales
 
+![pexels-rdne-7948055](https://github.com/user-attachments/assets/9aaad189-96a0-4831-b6a3-a2408db7ae44)
+
+This image was gotten from [here](https://www.pexels.com/photo/colored-pencils-and-a-magnifying-glass-over-documents-with-graphs-7948055/)
+
 # INTRODUCTION
 For this project, I obtained a dataset that contains sales records from a supermarket, capturing various aspects of customer transactions. It includes details such Branch, Location (city), Customer Type, Gender, Product Line, Quantity Purchased, Time of Purchase, Payment Method, and Customer Ratings. The dataset consists of 1000 rows, providing valuable insights into customer purchasing behaviour, sales trends, and product performance.
 [Link to the dataset](https://www.kaggle.com/datasets/alexhuitron/supermarket-sales)
